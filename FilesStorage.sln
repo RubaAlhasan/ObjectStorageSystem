@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStorage", "FilesStorage\FilesStorage.csproj", "{15E4E398-5504-455F-9785-8A2AE983C051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStorageDomain", "FilesStorageDomain\FilesStorageDomain.csproj", "{35081259-B707-4998-B46B-B52C3FD8410E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStorageApplication", "FilesStorageApplication\FilesStorageApplication.csproj", "{5B654D9E-02CF-430D-8B51-188294A0C236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStorageApplicationContract", "FilesStorageApplicationContract\FilesStorageApplicationContract.csproj", "{3E2E16FF-6949-41FC-8E50-3E146DE18753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStorageEntityFramework", "FilesStorageEntityFramework\FilesStorageEntityFramework.csproj", "{E8AC1D2A-FB68-4F63-AF69-D9A173C0BCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStorage.Test", "FilesStorage.Test\FilesStorage.Test.csproj", "{483A153A-E8BA-4015-BC15-296FC1E48053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E4E398-5504-455F-9785-8A2AE983C051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E4E398-5504-455F-9785-8A2AE983C051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E4E398-5504-455F-9785-8A2AE983C051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E4E398-5504-455F-9785-8A2AE983C051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35081259-B707-4998-B46B-B52C3FD8410E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35081259-B707-4998-B46B-B52C3FD8410E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35081259-B707-4998-B46B-B52C3FD8410E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35081259-B707-4998-B46B-B52C3FD8410E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B654D9E-02CF-430D-8B51-188294A0C236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B654D9E-02CF-430D-8B51-188294A0C236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B654D9E-02CF-430D-8B51-188294A0C236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B654D9E-02CF-430D-8B51-188294A0C236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2E16FF-6949-41FC-8E50-3E146DE18753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2E16FF-6949-41FC-8E50-3E146DE18753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2E16FF-6949-41FC-8E50-3E146DE18753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2E16FF-6949-41FC-8E50-3E146DE18753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AC1D2A-FB68-4F63-AF69-D9A173C0BCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AC1D2A-FB68-4F63-AF69-D9A173C0BCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AC1D2A-FB68-4F63-AF69-D9A173C0BCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AC1D2A-FB68-4F63-AF69-D9A173C0BCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483A153A-E8BA-4015-BC15-296FC1E48053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483A153A-E8BA-4015-BC15-296FC1E48053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483A153A-E8BA-4015-BC15-296FC1E48053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483A153A-E8BA-4015-BC15-296FC1E48053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141F0548-A96C-4BD5-A19A-4264C9AA25F1}
+	EndGlobalSection
+EndGlobal
